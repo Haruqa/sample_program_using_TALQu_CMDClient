@@ -1,12 +1,13 @@
-# YouTubeLiveChat_to_TALQuPRO (YouTubeLiveコメ読みするよ)  
+# YouTubeLiveChat_to_TALQuPRO (YouTubeLiveコメ読みするよ)
 
-# [ダウンロード](https://github.com/Haruqa/sample_program_using_TALQu_CMDClient/files/13635908/YouTubeLive._1.1.0.zip)  
+# [ダウンロード](https://github.com/Haruqa/sample_program_using_TALQu_CMDClient/files/13635908/YouTubeLive._1.1.0.zip)
 
-  
 ## はじめに
 TALQuPRO連携ツールです。
 Pythonで実装しています。メインのコードは「YouTubeLiveChat_to_TALQuPRO.py」に書かれています。
 「TALQuPRO_CMDClient.exe」を通したTALQuPROのコマンドライン操作の参考になればいいなあと思っています。
+
+※リポジトリ上にはpython本体とサードパーティーライブラリを含んでいません
 
 そのほかサードパーティーライブラリのライセンスなどについては
 python-3.10.9\Lib\site-packages以下の*.dist-infoフォルダ内をご確認ください
